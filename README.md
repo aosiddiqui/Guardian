@@ -1,1 +1,2 @@
-# kidsguard
+# GUARDIAN: An application for Child Unsafe Content Detection in a Fine-grained manner
+We introduce GUARDIAN, an app that detects harmful content in kids videos with precision. As more kids watch videos online, it's crucial to identify and filter out violent, sexual, or explicit scenes. Some malicious users hide such content in videos, making it hard to spot. While past efforts have focused on visual cues, our approach combines audio and visual signals. Our experiments show this dual approach is much better at detecting harmful content than relying on visual modality alone.
