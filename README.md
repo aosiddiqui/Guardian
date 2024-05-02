@@ -3,9 +3,7 @@ We introduce GUARDIAN, an app that detects harmful content in kids videos with p
 
 The architecture of our model is given below:
 
-<p align="center">
 ![image](https://github.com/aosiddiqui/Guardian/assets/56800893/23c77c14-83c2-4b05-a41b-36ed3d28f3c9)
-</p>
 
 The interface to our application is shown in the below screenshots:
 
