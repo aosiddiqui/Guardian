@@ -8,3 +8,8 @@ The architecture of our model is given below:
 The interface to our application is shown in the below screenshots:
 
 ![image](https://github.com/aosiddiqui/Guardian/assets/56800893/8d221b31-89b9-46aa-92d6-7a6aabc8cdd0)
+
+Here are the results on the KidsGuard test data:
+
+![image](https://github.com/aosiddiqui/Guardian/assets/56800893/4a6c3f16-1596-4bf5-a845-31b568b573c5)
+
