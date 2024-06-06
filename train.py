@@ -86,11 +86,11 @@ class KidsGuardModel(nn.Module):
         # self.linear2 = nn.Linear(4096, 512)
         # self.linear3 = nn.Linear(512, 4)
 
-        # # B
-        # self.linear_video = nn.Linear(d_model, 120)
-        # self.linear_audio = nn.Linear(d_model, 120)
-        # self.linear1 = nn.Linear(120*120, 1024)
-        # self.linear2 = nn.Linear(1024, 4)
+        # B
+        self.linear_video = nn.Linear(d_model, 120)
+        self.linear_audio = nn.Linear(d_model, 120)
+        self.linear1 = nn.Linear(120*120, 1024)
+        self.linear2 = nn.Linear(1024, 4)
 
     def forward(self, x, y):
         x, y = self.encoder(x, y)
